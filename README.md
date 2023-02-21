@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on a computer vision project on film analysis, and will start on project on Geophysics data analysis again soon
 - 🌱 I’m currently learning signal processing!
 - 🔱 I'm a 3rd year Machine Learning & Neural Computation (Cognitive Science) student with a double-major in Interdisciplinary Computing Arts & Music, with a minor in Computer Science & Engineering, at UC San Diego. I'll graduate in June 2024.
-- 📫 How to reach me: I'll reply DMs / give out my resumé and personal contact on LinkedIn. https://www.linkedin.com/in/andrina-zhang/ (Open web doesn't seem very safe to me regarding to my personal info🤣)
+- 💬 How to reach me: I'll reply DMs / give out my resumé and personal contact on LinkedIn. https://www.linkedin.com/in/andrina-zhang/ (Open web doesn't seem very safe to me regarding to my personal info🤣)
+- ⚡ Fun fact: I did some marketing internship simultaneously with my first year of college, which I had to take it remotely, because I ran two fan clubs when I was in high school <3
 
 <!--
 **Andrina-iris/Andrina-iris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
