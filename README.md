@@ -1,6 +1,7 @@
 #### 💐 Hi there 💐
 
-### I'm Andrina 🦁
+### I'm Andrina 🦁 
+#### Here's my Portfolio: https://andrinazxx.github.io/
 
 - 💻 I’m currently working on a computer vision project on film analysis, and will start on project on Geophysics data analysis again soon.
 - 🔭 I’m currently learning machine learning algorithms and signal processing!
