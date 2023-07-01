@@ -3,9 +3,8 @@
 #### Please visit my portfolio: https://andrinazxx.github.io/ and [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/michael-welsome-b989141a6/](https://www.linkedin.com/in/andrina-zhang/)) for more information
 
 #### 🦁 About Me:
-- 💻 I’m currently working on a computer vision project on film analysis, and will start on project on Geophysics data analysis again soon.
-- 🔭 I’m currently learning machine learning algorithms and signal processing!
-- 🔱 I'm a 3rd year Machine Learning & Neural Computation (Cognitive Science) student with a double-major in Interdisciplinary Computing Arts & Music, with a minor in Computer Science & Engineering, at UC San Diego. I'll graduate in June 2024.
+- 💻 I’m currently working on a audio beamforming project on both the algorithm and the software UI design.
+- 🔱 I'm a rising senior Machine Learning & Neural Computation student with a double-major in Interdisciplinary Computing Arts & Music and a minor in Computer Science & Engineering, at UC San Diego. I'll be open to work after I graduate in June 2024 and I'm available for interviews currently.
 - ✨ Fun facts about me: 
   - I'm a coffee enthusiast. Mocha takes my heart.
   - I love watching lion videos / documentaries. I love comedies in diverse languages too.
