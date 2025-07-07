@@ -1,18 +1,14 @@
 ### Hello, I'm Andrina :D
 
-#### Please visit my portfolio: https://andrinazxx.github.io/ and [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/michael-welsome-b989141a6/](https://www.linkedin.com/in/andrina-zhang/)) for more information
+#### Please visit my portfolio: https://andrinazxx.github.io/ and [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/michael-welsome-b989141a6/](https://www.linkedin.com/in/andrina-zhang/)) for more info
 
 #### 🦁 About Me:
-- 💻 I’m currently working on a audio beamforming project on both the algorithm and the software UI design.
-- 🔱 I'm a rising senior Machine Learning & Neural Computation student with a double-major in Interdisciplinary Computing Arts & Music and a minor in Computer Science & Engineering, at UC San Diego. I'll be open to work after I graduate in June 2024 and I'm available for interviews currently.
-- ✨ Fun facts about me: 
-  - I'm a coffee enthusiast. Mocha takes my heart.
-  - I love watching lion videos / documentaries. I love comedies in diverse languages too.
-  - I'm the model of my friend's graduation project and I'm my friends’ photographer when they have live performances.
-  - My very first experience of working in the industry happened when I had to take my first year of college remotely. I did marketing and project management internships at GSK and Philips Lighting respectively, because I ran two fan clubs when I was in high school <3
+- 💻 currently typing..
+- 🔱 survived and -- surfed
+- ✨ funfacts are the iykyk things
 
 
-#### 📊 GitHub Stats:
+#### 📊 GitHub Stats: (aka - here are some copied codes from some engineers' website, pass it on if you want it)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrinaZxx&theme=slateorange&include_all_commits=true&count_private=true&layout=compact)
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=AndrinaZxx&theme=slateorange&include_all_commits=true&count_private=true)
