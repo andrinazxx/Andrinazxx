@@ -5,7 +5,7 @@
 #### 🦁 About Me:
 - 💻 currently typing..
 - 🔱 survived and -- surfed
-- ✨ funfacts are the iykyk things
+- 🦫 fall 2026 onward and upward!!!
 
 
 #### 📊 GitHub Stats: (aka - here are some copied codes from some engineers' website, pass it on if you want it)
