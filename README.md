@@ -1,11 +1,12 @@
 ### Hello, I'm Andrina :D
 
-#### Please visit my portfolio: https://andrinazxx.github.io/ and [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/michael-welsome-b989141a6/](https://www.linkedin.com/in/andrina-zhang/)) for more info
+#### Please visit my portfolio: https://andrinazxx.github.io/ for more info
 
 #### 🦁 About Me:
-- 💻 currently typing..
-- 🔱 survived and -- surfed
-- 🦫 fall 2026 onward and upward!!!
+- M.S. at MIT Media Lab 🦫✨ '28
+- B.S. + B.A. at UC San Diego 🔱 '24
+
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/michael-welsome-b989141a6/](https://www.linkedin.com/in/andrina-zhang/))
 
 
 #### 📊 GitHub Stats: (aka - here are some copied codes from some engineers' website, pass it on if you want it)
