@@ -9,6 +9,8 @@
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/michael-welsome-b989141a6/](https://www.linkedin.com/in/andrina-zhang/))
 
 
+<!--
+
 #### 📊 GitHub Stats: (aka - here are some copied codes from some engineers' website, pass it on if you want it)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrinaZxx&theme=slateorange&include_all_commits=true&count_private=true&layout=compact)
 <br>
@@ -17,7 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndrinaZxx&theme=slateorange) 
 
 
-<!--
 **Andrina-iris/Andrina-iris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
